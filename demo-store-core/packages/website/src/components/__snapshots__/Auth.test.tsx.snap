@@ -1,0 +1,36 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should match the snapshot 1`] = `
+<div>
+  <div
+    data-testid="clAccessToken"
+  >
+    clAccessToken: 
+  </div>
+  <div
+    data-testid="clEndpoint"
+  >
+    clEndpoint: 
+  </div>
+  <div
+    data-testid="accessToken"
+  >
+    accessToken: 
+  </div>
+  <div
+    data-testid="endpoint"
+  >
+    endpoint: 
+  </div>
+  <div
+    data-testid="organization"
+  >
+    organization: 
+  </div>
+  <div
+    data-testid="domain"
+  >
+    domain: 
+  </div>
+</div>
+`;

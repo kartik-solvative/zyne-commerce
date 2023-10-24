@@ -1,0 +1,55 @@
+$noAccordionBreakpoint: theme('screens.md');
+
+.title {
+  @apply py-12 pb-12 font-extrabold;
+
+  @media (min-width: $noAccordionBreakpoint) {
+    @apply text-center;
+  }
+}
+
+.countriesContainer {
+  @apply container mx-auto px-6 flex-grow;
+
+  @media (min-width: $noAccordionBreakpoint) {
+    @apply bg-no-repeat bg-center max-w-screen-2xl bg-contain px-24 pt-24;
+
+    background-image: url('https://res.cloudinary.com/commercelayer/image/upload/f_auto,b_white/v1655471032/demo-store/assets/country-selector-background.jpg')
+  }
+}
+
+.accordionContainer {
+  @apply border-b border-gray-400;
+
+  .countryLink {
+    @apply py-6 border-t border-t-gray-100 font-semibold block;
+
+    &:first-child {
+      @apply border-t-0
+    }
+  }
+
+  @media (min-width: $noAccordionBreakpoint) {
+    @apply grid gap-12 border-b-0;
+
+    .countryLink {
+      @apply py-1 border-t-0;
+    }
+
+    :global(.accordion-title) {
+      @apply cursor-auto border-t-0 border-b border-gray-100 mb-6;
+    }
+
+    :global(.accordion-icon) {
+      @apply invisible
+    }
+  
+    :global(.accordion-content) {
+      @apply max-h-full;
+
+      > div {
+        @apply border-0
+      }
+    }
+  }
+}
