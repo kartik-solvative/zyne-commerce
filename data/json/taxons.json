@@ -57,7 +57,7 @@
   {
     "id": "taxon_3",
     "label": {
-      "en": "Bags",
+      "en": "PRODUCTS",
       "it": "Borse",
       "fr": "Sacs"
     },
@@ -89,7 +89,7 @@
   {
     "id": "taxon_4",
     "label": {
-      "en": "Hats",
+      "en": "WHO ARE WE",
       "it": "Cappelli",
       "fr": "Chapeaux"
     },
@@ -120,7 +120,7 @@
   {
     "id": "taxon_5",
     "label": {
-      "en": "Home & Living",
+      "en": "HOME",
       "it": "Casa",
       "fr": "La maison et la vie"
     },
@@ -309,7 +309,7 @@
   {
     "id": "taxon_8",
     "label": {
-      "en": "Sweatshirts",
+      "en": "REQUEST A QUOTE",
       "it": "Felpe",
       "fr": "Sweatchemises"
     },
@@ -456,7 +456,7 @@
   {
     "id": "taxon_11",
     "label": {
-      "en": "Shirts",
+      "en": "CALIBRATION",
       "it": "Magliette",
       "fr": "Chemises"
     },

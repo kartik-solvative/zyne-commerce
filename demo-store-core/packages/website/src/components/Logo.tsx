@@ -1,4 +1,4 @@
-import { CommerceLayerGlyph, CommerceLayerLogotype } from '#assets/icons'
+import { CommerceLayerGlyph, CommerceLayerLogotype, TriplePointLogo } from '#assets/icons'
 import { useSettingsContext } from '#contexts/SettingsContext'
 
 export const Logo: React.FC<JSX.IntrinsicElements['div']> = ({ className = '', ...props }) => {
@@ -11,8 +11,9 @@ export const Logo: React.FC<JSX.IntrinsicElements['div']> = ({ className = '', .
           <img alt={`${settings.organization?.name} logo`} src={settings.organization?.logo_url} className='h-10' />
         ) : (
           <>
-            <CommerceLayerGlyph width={32} className='m-1 inline' aria-label='Commerce Layer logomark' />
-            <CommerceLayerLogotype width={192} className='ml-2 hidden md:inline' aria-label='Commerce Layer logotype' />
+            {/* <CommerceLayerGlyph width={32} className='m-1 inline' aria-label='Commerce Layer logomark' /> */}
+            {/* <CommerceLayerLogotype width={192} className='ml-2 hidden md:inline' aria-label='Commerce Layer logotype' /> */}
+            <TriplePointLogo width={192} className='ml-2 hidden md:inline' aria-label='TriplePoint logotype'/>
           </>
 
         )

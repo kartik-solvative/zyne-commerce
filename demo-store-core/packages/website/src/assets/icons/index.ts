@@ -1,5 +1,6 @@
 export { default as CommerceLayerGlyph } from './CommerceLayerGlyph.svg'
 export { default as CommerceLayerLogotype } from './CommerceLayerLogotype.svg'
+export { default as TriplePointLogo } from './TriplePointLogo.svg'
 export { default as Globe } from './Globe.svg'
 export { default as HeartStraight } from './HeartStraight.svg'
 export { default as MagnifyingGlass } from './MagnifyingGlass.svg'

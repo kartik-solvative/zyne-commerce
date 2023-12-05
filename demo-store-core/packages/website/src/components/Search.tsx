@@ -32,11 +32,11 @@ export const Search: React.FC<Props> = ({ className }) => {
 
   return (
     <div className={className}>
-      <label htmlFor='email' className='relative py-2.5 rounded bg-gray-100 text-gray-400 focus-within:text-gray-600 block'>
-        <MagnifyingGlass className='pointer-events-none w-6 h-6 absolute top-1/2 transform -translate-y-1/2 left-3' />
+      <label htmlFor='email' className='relative py-2.5 rounded bg-white border-2 border-gray-400 text-gray-400 focus-within:text-gray-600 block'>
         <form onSubmit={handleSubmit} action={`${NEXT_PUBLIC_BASE_PATH}/${router.query.locale}/search`}>
-          <input onFocus={e => e.currentTarget.select()} onChange={e => setValue(e.currentTarget.value)} value={value} placeholder={i18n.t('general.search')} className='form-input appearance-none bg-transparent w-full pl-14 focus:outline-none focus:shadow-outline' />
+          <input onFocus={e => e.currentTarget.select()} onChange={e => setValue(e.currentTarget.value)} value={value} placeholder={i18n.t('general.search')} className='form-input appearance-none bg-transparent w-full pl-2 focus:outline-none focus:shadow-outline' />
         </form>
+        <MagnifyingGlass className='pointer-events-none w-6 h-6 absolute top-1/2 transform -translate-y-1/2 right-3' />
       </label>
     </div>
   )
