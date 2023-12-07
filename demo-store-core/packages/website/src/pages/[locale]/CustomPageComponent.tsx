@@ -15,6 +15,7 @@ export type Props = HeaderProps & {
 }
 
 export const CustomPageComponent: NextPage<Props> = ({ navigation, page, localeCodes }) => {
+  console.log(page,"page");
   return (
     <Page localeCodes={localeCodes} navigation={navigation} title={page.title || undefined} description={page.description || undefined}>
       <div data-testid='page-components' className='mt-8 flex flex-col gap-8'>

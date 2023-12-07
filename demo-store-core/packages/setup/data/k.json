@@ -1,0 +1,704 @@
+{
+    "products": [
+      {
+        "reference": "price_1",
+        "sku_code": "4927925",
+        "amount_cents": "6253",
+        "compare_at_amount_cents": "6948",
+        "price_list": "price_list_1"
+      },
+      {
+        "reference": "price_1",
+        "sku_code": "4927902",
+        "amount_cents": "5760",
+        "compare_at_amount_cents": "6400",
+        "price_list": "price_list_1"
+      },
+      {
+        "reference": "price_1",
+        "sku_code": "4810267",
+        "amount_cents": "2047",
+        "compare_at_amount_cents": "2274",
+        "price_list": "price_list_1"
+      },
+      {
+        "reference": "price_1",
+        "sku_code": "4810259",
+        "amount_cents": "157",
+        "compare_at_amount_cents": "174",
+        "price_list": "price_list_1"
+      },
+      {
+        "reference": "price_1",
+        "sku_code": "4810244",
+        "amount_cents": "151",
+        "compare_at_amount_cents": "168",
+        "price_list": "price_list_1"
+      },
+      {
+        "reference": "price_1",
+        "sku_code": "4810232",
+        "amount_cents": "222",
+        "compare_at_amount_cents": "247",
+        "price_list": "price_list_1"
+      },
+      {
+        "reference": "price_1",
+        "sku_code": "",
+        "amount_cents": "",
+        "compare_at_amount_cents": "",
+        "price_list": "price_list_1"
+      },
+      {
+        "reference": "price_1",
+        "sku_code": "4810215",
+        "amount_cents": "554",
+        "compare_at_amount_cents": "615",
+        "price_list": "price_list_1"
+      },
+      {
+        "reference": "price_1",
+        "sku_code": "3100316",
+        "amount_cents": "528",
+        "compare_at_amount_cents": "587",
+        "price_list": "price_list_1"
+      },
+      {
+        "reference": "price_1",
+        "sku_code": "3055335",
+        "amount_cents": "1351",
+        "compare_at_amount_cents": "1501",
+        "price_list": "price_list_1"
+      },
+      {
+        "reference": "price_1",
+        "sku_code": "3055312",
+        "amount_cents": "895",
+        "compare_at_amount_cents": "994",
+        "price_list": "price_list_1"
+      },
+      {
+        "reference": "price_1",
+        "sku_code": "3055301",
+        "amount_cents": "1332",
+        "compare_at_amount_cents": "1480",
+        "price_list": "price_list_1"
+      },
+      {
+        "reference": "price_1",
+        "sku_code": "3055295",
+        "amount_cents": "895",
+        "compare_at_amount_cents": "994",
+        "price_list": "price_list_1"
+      },
+      {
+        "reference": "price_1",
+        "sku_code": "3055288",
+        "amount_cents": "895",
+        "compare_at_amount_cents": "994",
+        "price_list": "price_list_1"
+      },
+      {
+        "reference": "price_1",
+        "sku_code": "3055274",
+        "amount_cents": "895",
+        "compare_at_amount_cents": "994",
+        "price_list": "price_list_1"
+      },
+      {
+        "reference": "price_1",
+        "sku_code": "",
+        "amount_cents": "",
+        "compare_at_amount_cents": "",
+        "price_list": "price_list_1"
+      },
+      {
+        "reference": "price_1",
+        "sku_code": "3055256",
+        "amount_cents": "895",
+        "compare_at_amount_cents": "994",
+        "price_list": "price_list_1"
+      },
+      {
+        "reference": "price_1",
+        "sku_code": "3055242",
+        "amount_cents": "895",
+        "compare_at_amount_cents": "994",
+        "price_list": "price_list_1"
+      },
+      {
+        "reference": "price_1",
+        "sku_code": "3054933",
+        "amount_cents": "1263",
+        "compare_at_amount_cents": "1403",
+        "price_list": "price_list_1"
+      },
+      {
+        "reference": "price_1",
+        "sku_code": "3054916",
+        "amount_cents": "779",
+        "compare_at_amount_cents": "866",
+        "price_list": "price_list_1"
+      },
+      {
+        "reference": "price_1",
+        "sku_code": "3054902",
+        "amount_cents": "1263",
+        "compare_at_amount_cents": "1403",
+        "price_list": "price_list_1"
+      },
+      {
+        "reference": "price_1",
+        "sku_code": "3054893",
+        "amount_cents": "973",
+        "compare_at_amount_cents": "1081",
+        "price_list": "price_list_1"
+      },
+      {
+        "reference": "price_1",
+        "sku_code": "3054887",
+        "amount_cents": "973",
+        "compare_at_amount_cents": "1081",
+        "price_list": "price_list_1"
+      },
+      {
+        "reference": "price_1",
+        "sku_code": "3054879",
+        "amount_cents": "973",
+        "compare_at_amount_cents": "1081",
+        "price_list": "price_list_1"
+      },
+      {
+        "reference": "price_1",
+        "sku_code": "3054868",
+        "amount_cents": "973",
+        "compare_at_amount_cents": "1081",
+        "price_list": "price_list_1"
+      },
+      {
+        "reference": "price_1",
+        "sku_code": "3054854",
+        "amount_cents": "973",
+        "compare_at_amount_cents": "1081",
+        "price_list": "price_list_1"
+      },
+      {
+        "reference": "price_1",
+        "sku_code": "3054846",
+        "amount_cents": "973",
+        "compare_at_amount_cents": "1081",
+        "price_list": "price_list_1"
+      },
+      {
+        "reference": "price_1",
+        "sku_code": "3054515",
+        "amount_cents": "922",
+        "compare_at_amount_cents": "1024",
+        "price_list": "price_list_1"
+      },
+      {
+        "reference": "price_1",
+        "sku_code": "3054496",
+        "amount_cents": "599",
+        "compare_at_amount_cents": "666",
+        "price_list": "price_list_1"
+      },
+      {
+        "reference": "price_1",
+        "sku_code": "3054481",
+        "amount_cents": "922",
+        "compare_at_amount_cents": "1024",
+        "price_list": "price_list_1"
+      },
+      {
+        "reference": "price_1",
+        "sku_code": "3054470",
+        "amount_cents": "706",
+        "compare_at_amount_cents": "784",
+        "price_list": "price_list_1"
+      },
+      {
+        "reference": "price_1",
+        "sku_code": "3054462",
+        "amount_cents": "706",
+        "compare_at_amount_cents": "784",
+        "price_list": "price_list_1"
+      },
+      {
+        "reference": "price_1",
+        "sku_code": "3054455",
+        "amount_cents": "706",
+        "compare_at_amount_cents": "784",
+        "price_list": "price_list_1"
+      },
+      {
+        "reference": "price_1",
+        "sku_code": "3054443",
+        "amount_cents": "706",
+        "compare_at_amount_cents": "784",
+        "price_list": "price_list_1"
+      },
+      {
+        "reference": "price_1",
+        "sku_code": "3054437",
+        "amount_cents": "706",
+        "compare_at_amount_cents": "784",
+        "price_list": "price_list_1"
+      },
+      {
+        "reference": "price_1",
+        "sku_code": "3054428",
+        "amount_cents": "706",
+        "compare_at_amount_cents": "784",
+        "price_list": "price_list_1"
+      },
+      {
+        "reference": "price_1",
+        "sku_code": "2085476",
+        "amount_cents": "1613",
+        "compare_at_amount_cents": "1792",
+        "price_list": "price_list_1"
+      },
+      {
+        "reference": "price_1",
+        "sku_code": "1651677",
+        "amount_cents": "1613",
+        "compare_at_amount_cents": "1792",
+        "price_list": "price_list_1"
+      },
+      {
+        "reference": "price_1",
+        "sku_code": "1651661",
+        "amount_cents": "1613",
+        "compare_at_amount_cents": "1792",
+        "price_list": "price_list_1"
+      },
+      {
+        "reference": "price_1",
+        "sku_code": "1651650",
+        "amount_cents": "1613",
+        "compare_at_amount_cents": "1792",
+        "price_list": "price_list_1"
+      },
+      {
+        "reference": "price_1",
+        "sku_code": "",
+        "amount_cents": "",
+        "compare_at_amount_cents": "",
+        "price_list": "price_list_1"
+      },
+      {
+        "reference": "price_1",
+        "sku_code": "1651638",
+        "amount_cents": "986",
+        "compare_at_amount_cents": "1096",
+        "price_list": "price_list_1"
+      },
+      {
+        "reference": "price_1",
+        "sku_code": "1651623",
+        "amount_cents": "1001",
+        "compare_at_amount_cents": "1112",
+        "price_list": "price_list_1"
+      },
+      {
+        "reference": "price_1",
+        "sku_code": "1651614",
+        "amount_cents": "734",
+        "compare_at_amount_cents": "815",
+        "price_list": "price_list_1"
+      },
+      {
+        "reference": "price_1",
+        "sku_code": "1651606",
+        "amount_cents": "461",
+        "compare_at_amount_cents": "512",
+        "price_list": "price_list_1"
+      },
+      {
+        "reference": "price_1",
+        "sku_code": "",
+        "amount_cents": "",
+        "compare_at_amount_cents": "",
+        "price_list": "price_list_1"
+      },
+      {
+        "reference": "price_1",
+        "sku_code": "1651587",
+        "amount_cents": "461",
+        "compare_at_amount_cents": "512",
+        "price_list": "price_list_1"
+      },
+      {
+        "reference": "price_1",
+        "sku_code": "1651579",
+        "amount_cents": "388",
+        "compare_at_amount_cents": "431",
+        "price_list": "price_list_1"
+      },
+      {
+        "reference": "price_1",
+        "sku_code": "1884874",
+        "amount_cents": "1001",
+        "compare_at_amount_cents": "1112",
+        "price_list": "price_list_1"
+      },
+      {
+        "reference": "price_1",
+        "sku_code": "1884863",
+        "amount_cents": "461",
+        "compare_at_amount_cents": "512",
+        "price_list": "price_list_1"
+      },
+      {
+        "reference": "price_1",
+        "sku_code": "1884839",
+        "amount_cents": "443",
+        "compare_at_amount_cents": "492",
+        "price_list": "price_list_1"
+      },
+      {
+        "reference": "price_1",
+        "sku_code": "1651103",
+        "amount_cents": "540",
+        "compare_at_amount_cents": "600",
+        "price_list": "price_list_1"
+      },
+      {
+        "reference": "price_1",
+        "sku_code": "1651091",
+        "amount_cents": "563",
+        "compare_at_amount_cents": "625",
+        "price_list": "price_list_1"
+      },
+      {
+        "reference": "price_1",
+        "sku_code": "1651084",
+        "amount_cents": "613",
+        "compare_at_amount_cents": "681",
+        "price_list": "price_list_1"
+      },
+      {
+        "reference": "price_1",
+        "sku_code": "1651078",
+        "amount_cents": "466",
+        "compare_at_amount_cents": "518",
+        "price_list": "price_list_1"
+      },
+      {
+        "reference": "price_1",
+        "sku_code": "1651069",
+        "amount_cents": "291",
+        "compare_at_amount_cents": "323",
+        "price_list": "price_list_1"
+      },
+      {
+        "reference": "price_1",
+        "sku_code": "1651057",
+        "amount_cents": "291",
+        "compare_at_amount_cents": "323",
+        "price_list": "price_list_1"
+      },
+      {
+        "reference": "price_1",
+        "sku_code": "1651040",
+        "amount_cents": "291",
+        "compare_at_amount_cents": "323",
+        "price_list": "price_list_1"
+      },
+      {
+        "reference": "price_1",
+        "sku_code": "",
+        "amount_cents": "",
+        "compare_at_amount_cents": "",
+        "price_list": "price_list_1"
+      },
+      {
+        "reference": "price_1",
+        "sku_code": "1651025",
+        "amount_cents": "291",
+        "compare_at_amount_cents": "323",
+        "price_list": "price_list_1"
+      },
+      {
+        "reference": "price_1",
+        "sku_code": "1651016",
+        "amount_cents": "291",
+        "compare_at_amount_cents": "323",
+        "price_list": "price_list_1"
+      },
+      {
+        "reference": "price_1",
+        "sku_code": "1651002",
+        "amount_cents": "291",
+        "compare_at_amount_cents": "323",
+        "price_list": "price_list_1"
+      },
+      {
+        "reference": "price_1",
+        "sku_code": "1650997",
+        "amount_cents": "291",
+        "compare_at_amount_cents": "323",
+        "price_list": "price_list_1"
+      },
+      {
+        "reference": "price_1",
+        "sku_code": "1650985",
+        "amount_cents": "291",
+        "compare_at_amount_cents": "323",
+        "price_list": "price_list_1"
+      },
+      {
+        "reference": "price_1",
+        "sku_code": "3054520",
+        "amount_cents": "1650",
+        "compare_at_amount_cents": "1833",
+        "price_list": "price_list_1"
+      },
+      {
+        "reference": "price_1",
+        "sku_code": "1658649",
+        "amount_cents": "1687",
+        "compare_at_amount_cents": "1875",
+        "price_list": "price_list_1"
+      },
+      {
+        "reference": "price_1",
+        "sku_code": "1658636",
+        "amount_cents": "1682",
+        "compare_at_amount_cents": "1869",
+        "price_list": "price_list_1"
+      },
+      {
+        "reference": "price_1",
+        "sku_code": "1658509",
+        "amount_cents": "355",
+        "compare_at_amount_cents": "394",
+        "price_list": "price_list_1"
+      },
+      {
+        "reference": "price_1",
+        "sku_code": "1650686",
+        "amount_cents": "185",
+        "compare_at_amount_cents": "205",
+        "price_list": "price_list_1"
+      },
+      {
+        "reference": "price_1",
+        "sku_code": "4233827",
+        "amount_cents": "968",
+        "compare_at_amount_cents": "1076",
+        "price_list": "price_list_1"
+      },
+      {
+        "reference": "price_1",
+        "sku_code": "4410775",
+        "amount_cents": "3664",
+        "compare_at_amount_cents": "4071",
+        "price_list": "price_list_1"
+      },
+      {
+        "reference": "price_1",
+        "sku_code": "4410766",
+        "amount_cents": "3567",
+        "compare_at_amount_cents": "3963",
+        "price_list": "price_list_1"
+      },
+      {
+        "reference": "price_1",
+        "sku_code": "4410753",
+        "amount_cents": "1096",
+        "compare_at_amount_cents": "1218",
+        "price_list": "price_list_1"
+      },
+      {
+        "reference": "price_1",
+        "sku_code": "4410748",
+        "amount_cents": "591",
+        "compare_at_amount_cents": "657",
+        "price_list": "price_list_1"
+      },
+      {
+        "reference": "price_1",
+        "sku_code": "4409864",
+        "amount_cents": "3714",
+        "compare_at_amount_cents": "4127",
+        "price_list": "price_list_1"
+      },
+      {
+        "reference": "price_1",
+        "sku_code": "4409858",
+        "amount_cents": "397",
+        "compare_at_amount_cents": "441",
+        "price_list": "price_list_1"
+      },
+      {
+        "reference": "price_1",
+        "sku_code": "4409847",
+        "amount_cents": "3277",
+        "compare_at_amount_cents": "3641",
+        "price_list": "price_list_1"
+      },
+      {
+        "reference": "price_1",
+        "sku_code": "4409835",
+        "amount_cents": "936",
+        "compare_at_amount_cents": "1040",
+        "price_list": "price_list_1"
+      },
+      {
+        "reference": "price_1",
+        "sku_code": "4409820",
+        "amount_cents": "449",
+        "compare_at_amount_cents": "499",
+        "price_list": "price_list_1"
+      },
+      {
+        "reference": "price_1",
+        "sku_code": "4406724",
+        "amount_cents": "1788",
+        "compare_at_amount_cents": "1987",
+        "price_list": "price_list_1"
+      },
+      {
+        "reference": "price_1",
+        "sku_code": "4406713",
+        "amount_cents": "1097",
+        "compare_at_amount_cents": "1219",
+        "price_list": "price_list_1"
+      },
+      {
+        "reference": "price_1",
+        "sku_code": "3936096",
+        "amount_cents": "158",
+        "compare_at_amount_cents": "175",
+        "price_list": "price_list_1"
+      },
+      {
+        "reference": "price_1",
+        "sku_code": "3936070",
+        "amount_cents": "2162",
+        "compare_at_amount_cents": "2402",
+        "price_list": "price_list_1"
+      },
+      {
+        "reference": "price_1",
+        "sku_code": "3936055",
+        "amount_cents": "1692",
+        "compare_at_amount_cents": "1880",
+        "price_list": "price_list_1"
+      },
+      {
+        "reference": "price_1",
+        "sku_code": "3936037",
+        "amount_cents": "1627",
+        "compare_at_amount_cents": "1808",
+        "price_list": "price_list_1"
+      },
+      {
+        "reference": "price_1",
+        "sku_code": "3936019",
+        "amount_cents": "1627",
+        "compare_at_amount_cents": "1808",
+        "price_list": "price_list_1"
+      },
+      {
+        "reference": "price_1",
+        "sku_code": "3935995",
+        "amount_cents": "1373",
+        "compare_at_amount_cents": "1526",
+        "price_list": "price_list_1"
+      },
+      {
+        "reference": "price_1",
+        "sku_code": "3624151",
+        "amount_cents": "1936",
+        "compare_at_amount_cents": "2151",
+        "price_list": "price_list_1"
+      },
+      {
+        "reference": "price_1",
+        "sku_code": "3624149",
+        "amount_cents": "1254",
+        "compare_at_amount_cents": "1393",
+        "price_list": "price_list_1"
+      },
+      {
+        "reference": "price_1",
+        "sku_code": "3624136",
+        "amount_cents": "1328",
+        "compare_at_amount_cents": "1475",
+        "price_list": "price_list_1"
+      },
+      {
+        "reference": "price_1",
+        "sku_code": "3476835",
+        "amount_cents": "466",
+        "compare_at_amount_cents": "518",
+        "price_list": "price_list_1"
+      },
+      {
+        "reference": "price_1",
+        "sku_code": "3376734",
+        "amount_cents": "226",
+        "compare_at_amount_cents": "251",
+        "price_list": "price_list_1"
+      },
+      {
+        "reference": "price_1",
+        "sku_code": "3376729",
+        "amount_cents": "466",
+        "compare_at_amount_cents": "518",
+        "price_list": "price_list_1"
+      },
+      {
+        "reference": "price_1",
+        "sku_code": "3376718",
+        "amount_cents": "528",
+        "compare_at_amount_cents": "587",
+        "price_list": "price_list_1"
+      },
+      {
+        "reference": "price_1",
+        "sku_code": "3376707",
+        "amount_cents": "471",
+        "compare_at_amount_cents": "523",
+        "price_list": "price_list_1"
+      },
+      {
+        "reference": "price_1",
+        "sku_code": "3376533",
+        "amount_cents": "830",
+        "compare_at_amount_cents": "922",
+        "price_list": "price_list_1"
+      },
+      {
+        "reference": "price_1",
+        "sku_code": "2112289",
+        "amount_cents": "314",
+        "compare_at_amount_cents": "349",
+        "price_list": "price_list_1"
+      },
+      {
+        "reference": "price_1",
+        "sku_code": "2111586",
+        "amount_cents": "113",
+        "compare_at_amount_cents": "126",
+        "price_list": "price_list_1"
+      },
+      {
+        "reference": "price_1",
+        "sku_code": "2106048",
+        "amount_cents": "397",
+        "compare_at_amount_cents": "441",
+        "price_list": "price_list_1"
+      },
+      {
+        "reference": "price_1",
+        "sku_code": "2106027",
+        "amount_cents": "1106",
+        "compare_at_amount_cents": "1229",
+        "price_list": "price_list_1"
+      }
+    ]
+  }
