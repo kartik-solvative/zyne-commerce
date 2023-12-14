@@ -36,14 +36,24 @@
             "alt": "30% OFF SALE - CL30"
           },
           "title": "30% OFF SALE - CL30",
-          "href": "/search/bags"
+          "href": "/search/allProducts"
         },
         {
           "type": "product-grid",
           "id": "product-grid-1",
           "title": "Best seller",
           "skus": [
-            "4927925"
+            "3996517",
+            "4335389",
+            "3511872",
+            "3996500",
+            "4335377",
+            "3374437",
+            "4574703",
+            "4615511",
+            "4574715",
+            "4335350",
+            "4335361"
           ]
         },
         {
@@ -204,14 +214,14 @@
             "alt": "30% DE RÉDUCTION SUR LA VENTE - CL30"
           },
           "title": "30% DE RÉDUCTION SUR LA VENTE - CL30",
-          "href": "/search/bags"
+          "href": "/search/allProducts"
         },
         {
           "type": "product-grid",
           "id": "product-grid-1",
           "title": "Best seller",
           "skus": [
-            "4927925"
+            "3996517"
           ]
         },
         {

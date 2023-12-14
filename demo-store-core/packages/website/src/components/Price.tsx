@@ -5,7 +5,6 @@ type Props = JSX.IntrinsicElements['div'] & {
 }
 
 export const Price: React.FC<Props> = ({ price, className = '', ...props }) => {
-  console.log(price,"pricellllllll")
 
   return (
     <div className={`flex items-center gap-3 ${className}`} { ...props }>

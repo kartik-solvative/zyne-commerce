@@ -18,6 +18,9 @@
   "dependencies": {
     "@commercelayer/demo-store-types": "^2.3.0",
     "@woocommerce/woocommerce-rest-api": "^1.0.1",
+    "axios": "^1.6.2",
+    "cheerio": "^1.0.0-rc.12",
+    "express": "^4.18.2",
     "react-icons": "^4.12.0"
   },
   "engines": {

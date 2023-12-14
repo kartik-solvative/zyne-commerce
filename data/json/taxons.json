@@ -14,8 +14,8 @@
     "slug": "/accessories",
     "name": "All Accessories",
     "references": [
-    "4927925",
-    "4927902"
+      "3996517",
+      "4335389"
     ]
   },
   {
@@ -32,9 +32,7 @@
     },
     "slug": "/baby",
     "name": "All Products for Babies",
-    "references": [
-     
-    ]
+    "references": []
   },
   {
     "id": "taxon_3",
@@ -51,8 +49,106 @@
     "slug": "/allProducts",
     "name": "All Bags",
     "references": [
-      "4927925",
-      "4810267"
+      "3996517",
+      "4335389",
+      "3511872",
+      "3996500",
+      "4335377",
+      "3374437",
+      "",
+      "4574703",
+      "4615511",
+      "4574715",
+      "4335350",
+      "4335361",
+      "5014286",
+      "5014273",
+      "5014264",
+      "4276955",
+      "4276928",
+      "4276943",
+      "4276937",
+      "3086235",
+      "3086247",
+      "201233",
+      "646684",
+      "4744423",
+      "651742",
+      "935601",
+      "916163",
+      "916093",
+      "",
+      "4328690",
+      "671826",
+      "3894826",
+      "4744414",
+      "4744340",
+      "3894923",
+      "4744384",
+      "5011031",
+      "5011046",
+      "2740212",
+      "2166266",
+      "5132988",
+      "5132974",
+      "5132963",
+      "5132956",
+      "4984691",
+      "",
+      "4637328",
+      "4921071",
+      "",
+      "4921032",
+      "5076272",
+      "5076285",
+      "4921003",
+      "5076297",
+      "5076304",
+      "3894844",
+      "838151",
+      "2279339",
+      "871178",
+      "376582",
+      "643684",
+      "871215",
+      "871202",
+      "",
+      "892583",
+      "",
+      "847793",
+      "871207",
+      "871210",
+      "830828",
+      "",
+      "812396",
+      "",
+      "943121",
+      "803293",
+      "4531784",
+      "4531769",
+      "",
+      "646163",
+      "4821057",
+      "2544081",
+      "677390",
+      "646189",
+      "5099292",
+      "5133358",
+      "5133347",
+      "3460439",
+      "3460387",
+      "3460346",
+      "4962751",
+      "4962749",
+      "4962708",
+      "4962713",
+      "4962690",
+      "2111088",
+      "4920947",
+      "",
+      "",
+      "5112860",
+      "2117440"
     ]
   },
   {
@@ -69,9 +165,7 @@
     },
     "slug": "/hats",
     "name": "All Hats",
-    "references": [
-     
-    ]
+    "references": []
   },
   {
     "id": "taxon_5",
@@ -87,9 +181,7 @@
     },
     "slug": "/home-and-living",
     "name": "All Products for Home & Living",
-    "references": [
-     
-    ]
+    "references": []
   },
   {
     "id": "taxon_6",
@@ -105,9 +197,7 @@
     },
     "slug": "/men",
     "name": "All Products for Men",
-    "references": [
-      
-    ]
+    "references": []
   },
   {
     "id": "taxon_7",
@@ -122,10 +212,11 @@
     },
     "slug": "/shirts",
     "name": "All Shirts",
-    "references": [
-      
-    ],
-    "taxons": ["taxon_7A", "taxon_7B"]
+    "references": [],
+    "taxons": [
+      "taxon_7A",
+      "taxon_7B"
+    ]
   },
   {
     "id": "taxon_7A",
@@ -142,7 +233,10 @@
     "slug": "/shirts/polo",
     "name": "All Polo Shirts",
     "references": [],
-    "taxons": ["taxon_7AA", "taxon_7AB"]
+    "taxons": [
+      "taxon_7AA",
+      "taxon_7AB"
+    ]
   },
   {
     "id": "taxon_7AA",
@@ -158,9 +252,7 @@
     },
     "slug": "/shirts/polo/dark",
     "name": "All Polo Shirts",
-    "references": [
-     
-    ]
+    "references": []
   },
   {
     "id": "taxon_7AB",
@@ -176,9 +268,7 @@
     },
     "slug": "/shirts/polo/others",
     "name": "All Polo Shirts",
-    "references": [
-      
-    ]
+    "references": []
   },
   {
     "id": "taxon_7B",
@@ -194,9 +284,7 @@
     },
     "slug": "/shirts/others",
     "name": "All Shirts",
-    "references": [
-     
-    ]
+    "references": []
   },
   {
     "id": "taxon_8",
@@ -212,9 +300,7 @@
     },
     "slug": "/sweatshirts",
     "name": "All Sweatshirts",
-    "references": [
-     
-    ]
+    "references": []
   },
   {
     "id": "taxon_9",
@@ -230,9 +316,7 @@
     },
     "slug": "/unisex",
     "name": "All Unisex Products",
-    "references": [
-
-    ]
+    "references": []
   },
   {
     "id": "taxon_10",
@@ -248,9 +332,7 @@
     },
     "slug": "/women",
     "name": "All Products for Women",
-    "references": [
-    
-    ]
+    "references": []
   },
   {
     "id": "taxon_11",
@@ -266,8 +348,6 @@
     },
     "slug": "/shirts",
     "name": "All Shirts Except Womens",
-    "references": [
-     
-    ]
+    "references": []
   }
 ]
