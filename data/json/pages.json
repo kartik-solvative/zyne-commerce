@@ -136,9 +136,7 @@
           "type": "product-grid",
           "id": "product-grid-1",
           "title": "I più venduti",
-          "skus": [
-            
-          ]
+          "skus": []
         },
         {
           "type": "grid",

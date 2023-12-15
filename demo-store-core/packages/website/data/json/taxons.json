@@ -203,7 +203,10 @@
       "BODYBSSS000000FFFFFF12MX",
       "BODYBSSSFFFFFF00000012MX"
     ],
-    "taxons": ["taxon_7A", "taxon_7B"]
+    "taxons": [
+      "taxon_7A",
+      "taxon_7B"
+    ]
   },
   {
     "id": "taxon_7A",
@@ -220,7 +223,10 @@
     "slug": "/shirts/polo",
     "name": "All Polo Shirts",
     "references": [],
-    "taxons": ["taxon_7AA", "taxon_7AB"]
+    "taxons": [
+      "taxon_7AA",
+      "taxon_7AB"
+    ]
   },
   {
     "id": "taxon_7AA",

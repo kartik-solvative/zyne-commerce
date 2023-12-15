@@ -4,7 +4,9 @@
     "code": "US",
     "market": 15273,
     "catalog": "AMER",
-    "languages": ["en"],
+    "languages": [
+      "en"
+    ],
     "region": "Americas"
   },
   {
@@ -12,7 +14,9 @@
     "code": "AT",
     "market": 15383,
     "catalog": "EMEA",
-    "languages": ["en"],
+    "languages": [
+      "en"
+    ],
     "region": "Europe"
   },
   {
@@ -20,7 +24,9 @@
     "code": "AU",
     "market": 11279,
     "catalog": "AMER",
-    "languages": ["en"],
+    "languages": [
+      "en"
+    ],
     "region": "Oceania"
   },
   {
@@ -28,7 +34,9 @@
     "code": "BE",
     "market": 15383,
     "catalog": "EMEA",
-    "languages": ["en"],
+    "languages": [
+      "en"
+    ],
     "region": "Europe"
   },
   {
@@ -36,7 +44,9 @@
     "code": "BO",
     "market": 11279,
     "catalog": "AMER",
-    "languages": ["en"],
+    "languages": [
+      "en"
+    ],
     "region": "Americas"
   },
   {
@@ -44,7 +54,9 @@
     "code": "BR",
     "market": 11279,
     "catalog": "AMER",
-    "languages": ["en"],
+    "languages": [
+      "en"
+    ],
     "region": "Americas"
   },
   {
@@ -52,7 +64,9 @@
     "code": "CA",
     "market": 11279,
     "catalog": "AMER",
-    "languages": ["en"],
+    "languages": [
+      "en"
+    ],
     "region": "Americas"
   },
   {
@@ -60,7 +74,9 @@
     "code": "CL",
     "market": 11279,
     "catalog": "AMER",
-    "languages": ["en"],
+    "languages": [
+      "en"
+    ],
     "region": "Americas"
   },
   {
@@ -68,7 +84,9 @@
     "code": "CN",
     "market": 11279,
     "catalog": "APAC",
-    "languages": ["en"],
+    "languages": [
+      "en"
+    ],
     "region": "Asia"
   },
   {
@@ -76,7 +94,9 @@
     "code": "DK",
     "market": 15383,
     "catalog": "EMEA",
-    "languages": ["en"],
+    "languages": [
+      "en"
+    ],
     "region": "Europe"
   },
   {
@@ -84,7 +104,9 @@
     "code": "FI",
     "market": 15383,
     "catalog": "EMEA",
-    "languages": ["en"],
+    "languages": [
+      "en"
+    ],
     "region": "Europe"
   },
   {
@@ -92,7 +114,9 @@
     "code": "FR",
     "market": 15383,
     "catalog": "EMEA",
-    "languages": ["en"],
+    "languages": [
+      "en"
+    ],
     "region": "Europe"
   },
   {
@@ -100,7 +124,9 @@
     "code": "DE",
     "market": 15383,
     "catalog": "EMEA",
-    "languages": ["en"],
+    "languages": [
+      "en"
+    ],
     "region": "Europe"
   },
   {
@@ -108,7 +134,9 @@
     "code": "HK",
     "market": 11279,
     "catalog": "APAC",
-    "languages": ["en"],
+    "languages": [
+      "en"
+    ],
     "region": "Asia"
   },
   {
@@ -116,15 +144,19 @@
     "code": "IN",
     "market": 11279,
     "catalog": "APAC",
-    "languages": ["en"],
+    "languages": [
+      "en"
+    ],
     "region": "Asia"
-  },  
+  },
   {
     "name": "Indonesia",
     "code": "ID",
     "market": 11279,
     "catalog": "APAC",
-    "languages": ["en"],
+    "languages": [
+      "en"
+    ],
     "region": "Asia"
   },
   {
@@ -132,7 +164,9 @@
     "code": "IE",
     "market": 15383,
     "catalog": "EMEA",
-    "languages": ["en"],
+    "languages": [
+      "en"
+    ],
     "region": "Europe"
   },
   {
@@ -140,7 +174,9 @@
     "code": "IS",
     "market": 15383,
     "catalog": "EMEA",
-    "languages": ["en"],
+    "languages": [
+      "en"
+    ],
     "region": "Europe"
   },
   {
@@ -148,7 +184,10 @@
     "code": "IT",
     "market": 15383,
     "catalog": "EMEA",
-    "languages": ["it", "en"],
+    "languages": [
+      "it",
+      "en"
+    ],
     "region": "Europe"
   },
   {
@@ -156,7 +195,9 @@
     "code": "JP",
     "market": 11279,
     "catalog": "APAC",
-    "languages": ["en"],
+    "languages": [
+      "en"
+    ],
     "region": "Asia"
   },
   {
@@ -164,7 +205,9 @@
     "code": "KR",
     "market": 11279,
     "catalog": "APAC",
-    "languages": ["en"],
+    "languages": [
+      "en"
+    ],
     "region": "Asia"
   },
   {
@@ -172,7 +215,9 @@
     "code": "MX",
     "market": 11279,
     "catalog": "AMER",
-    "languages": ["en"],
+    "languages": [
+      "en"
+    ],
     "region": "Americas"
   },
   {
@@ -180,7 +225,9 @@
     "code": "NL",
     "market": 15383,
     "catalog": "EMEA",
-    "languages": ["en"],
+    "languages": [
+      "en"
+    ],
     "region": "Europe"
   },
   {
@@ -188,7 +235,9 @@
     "code": "NG",
     "market": 11279,
     "catalog": "EMEA",
-    "languages": ["en"],
+    "languages": [
+      "en"
+    ],
     "region": "Africa"
   },
   {
@@ -196,7 +245,9 @@
     "code": "NO",
     "market": 15383,
     "catalog": "EMEA",
-    "languages": ["en"],
+    "languages": [
+      "en"
+    ],
     "region": "Europe"
   },
   {
@@ -204,7 +255,9 @@
     "code": "PL",
     "market": 15383,
     "catalog": "EMEA",
-    "languages": ["en"],
+    "languages": [
+      "en"
+    ],
     "region": "Europe"
   },
   {
@@ -212,7 +265,9 @@
     "code": "PT",
     "market": 15383,
     "catalog": "EMEA",
-    "languages": ["en"],
+    "languages": [
+      "en"
+    ],
     "region": "Europe"
   },
   {
@@ -220,7 +275,9 @@
     "code": "RU",
     "market": 11279,
     "catalog": "APAC",
-    "languages": ["en"],
+    "languages": [
+      "en"
+    ],
     "region": "Asia"
   },
   {
@@ -228,7 +285,9 @@
     "code": "SA",
     "market": 11279,
     "catalog": "APAC",
-    "languages": ["en"],
+    "languages": [
+      "en"
+    ],
     "region": "Asia"
   },
   {
@@ -236,7 +295,9 @@
     "code": "SG",
     "market": 11279,
     "catalog": "APAC",
-    "languages": ["en"],
+    "languages": [
+      "en"
+    ],
     "region": "Asia"
   },
   {
@@ -244,7 +305,9 @@
     "code": "ZA",
     "market": 11279,
     "catalog": "EMEA",
-    "languages": ["en"],
+    "languages": [
+      "en"
+    ],
     "region": "Africa"
   },
   {
@@ -252,7 +315,9 @@
     "code": "ES",
     "market": 15383,
     "catalog": "EMEA",
-    "languages": ["it"],
+    "languages": [
+      "it"
+    ],
     "region": "Europe"
   },
   {
@@ -260,7 +325,9 @@
     "code": "SE",
     "market": 15383,
     "catalog": "EMEA",
-    "languages": ["en"],
+    "languages": [
+      "en"
+    ],
     "region": "Europe"
   },
   {
@@ -268,7 +335,9 @@
     "code": "CH",
     "market": 15383,
     "catalog": "EMEA",
-    "languages": ["en"],
+    "languages": [
+      "en"
+    ],
     "region": "Europe"
   },
   {
@@ -276,7 +345,9 @@
     "code": "TR",
     "market": 15383,
     "catalog": "EMEA",
-    "languages": ["en"],
+    "languages": [
+      "en"
+    ],
     "region": "Europe"
   },
   {
@@ -284,7 +355,9 @@
     "code": "GB",
     "market": 15383,
     "catalog": "EMEA",
-    "languages": ["en"],
+    "languages": [
+      "en"
+    ],
     "region": "Europe"
   }
 ]

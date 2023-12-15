@@ -24,10 +24,12 @@ export const FirstSubHeader: React.FC<HeaderProps> = () => {
           <FaLinkedin />
         </div>
         <div className="callUsRightFirstSubHeaderDiv ml-2 w-1/3 text-center">
-            <span className="text-white font-bold text-sm">CALL US: +61 8 8293834 554</span>
+          <span className="text-white font-bold text-sm">
+            CALL US: +61 8 8293834 554
+          </span>
         </div>
         <div className="newsletterRightFirstSubHeaderDiv w-1/5 text-center">
-            <span className="text-white font-bold text-sm">NEWSLETTER</span>
+          <span className="text-white font-bold text-sm">NEWSLETTER</span>
         </div>
       </div>
     </div>
