@@ -79,11 +79,9 @@ export const Page: React.FC<Props> = ({
         )}
         <style>{`
           :root {
-            --color-primary: ${getRGBColor(
-              settings.organization?.primary_color || "#666EFF"
-            )};
+            --color-primary: ${getRGBColor(settings.organization?.primary_color || "#666EFF")};
           }
-        `}</style>
+          `}</style>
 
         {
           // https://developers.google.com/search/docs/specialty/international/localized-versions?hl=en#html

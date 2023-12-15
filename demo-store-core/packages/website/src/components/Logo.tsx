@@ -1,4 +1,4 @@
-import { CommerceLayerGlyph, CommerceLayerLogotype, TriplePointLogo } from '#assets/icons'
+import { TriplePointLogo } from '#assets/icons'
 import { useSettingsContext } from '#contexts/SettingsContext'
 
 export const Logo: React.FC<JSX.IntrinsicElements['div']> = ({ className = '', ...props }) => {
