@@ -58,10 +58,10 @@ export const ProductPageComponent: NextPage<Props> = ({ navigation: links, produ
                 <AddToCartButton
                   skuCode={currentProduct?.sku}
                   label={i18n.t('general.addToCart')}
-                  className='block w-full mt-12 h-14 px-6 font-semibold rounded-md text-white bg-violet-400 disabled:bg-gray-300' />
+                  className='block w-full mt-12 h-14 px-6 font-semibold rounded-md text-white bg-red-800 disabled:bg-gray-300' />
 
                 <AvailabilityContainer skuCode={currentProduct?.sku}>
-                  <AvailabilityTemplate className='mt-6' showShippingMethodName={true} showShippingMethodPrice={true} color={'blue'} timeFormat={'days'} />
+                  <AvailabilityTemplate className='mt-6 hidden' showShippingMethodName={true} showShippingMethodPrice={true} color={'blue'} timeFormat={'days'} />
                 </AvailabilityContainer>
               </>
             )

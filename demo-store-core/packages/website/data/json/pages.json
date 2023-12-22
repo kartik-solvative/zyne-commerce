@@ -81,7 +81,7 @@
               "title": "Home living collection",
               "description": "Our home living collection has been designed to meet the needs of all kinds of people.",
               "linkLabel": "Discover now",
-              "linkHref": "/search/home-and-living"
+              "linkHref": "/"
             }
           ]
         }
@@ -158,7 +158,7 @@
               "title": "Casa",
               "description": "La nostra collezione per la casa è stata progettata per soddisfare le esigenze di tutti i tipi di persone.",
               "linkLabel": "Scopri adesso",
-              "linkHref": "/search/home-and-living"
+              "linkHref": "/"
             },
             {
               "image": {

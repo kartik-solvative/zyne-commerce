@@ -13,7 +13,7 @@ export const GridPageComponent: React.FC<{ component: GridPageComponentType }> =
               <div className='font-bold text-3xl mb-4'>{item.title}</div>
               <div className='leading-snug mb-4'>{item.description}</div>
 
-              <Link href={item.linkHref} className='py-2 px-4 inline-block font-semibold rounded-md bg-violet-400 text-white text-sm'>
+              <Link href={item.linkHref} className='py-2 px-4 inline-block font-semibold rounded-md bg-red-800 text-white text-sm'>
                 {item.linkLabel}
               </Link>
             </div>

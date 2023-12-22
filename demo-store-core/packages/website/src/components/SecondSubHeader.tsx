@@ -38,10 +38,10 @@ const CartQuantity: React.FC<{ quantity: number }> = ({
       <span
         className={`${
           isAnimating ? animation : ""
-        } absolute inline-flex h-full w-full rounded-full bg-violet-400 opacity-75`}
+        } absolute inline-flex h-full w-full rounded-full bg-red-800 opacity-75`}
         onAnimationEnd={() => setIsAnimating(false)}
       ></span>
-      <div className="absolute h-full w-full text-white bg-violet-400 rounded-full text-xxs flex items-center justify-center">
+      <div className="absolute h-full w-full text-white bg-red-800 rounded-full text-xxs flex items-center justify-center">
         {quantity}
       </div>
     </div>
@@ -63,16 +63,16 @@ export const SecondSubHeader: React.FC<HeaderProps> = () => {
         <div className=" w-1/2">
           <Search className="order-1 grow lg:grow-0 w-full" />
         </div>
-        <div className="font-bold text-sm">LOGIN / REGISTER</div>
+        {/* <div className="font-bold text-sm">LOGIN / REGISTER</div> */}
 
         <div className="flex items-center justify-end ">
           {settings.locale?.isShoppable && auth.accessToken && (
             <Link href="/cart" className="block lg:inline-block relative">
               <ShoppingBagOpen />
-              <LineItemsCount>{CartQuantity}</LineItemsCount>
+              <LineItemsCount className="bg-red-800">{CartQuantity}</LineItemsCount>
             </Link>
           )}
-          <div className="font-bold text-sm">$0.00</div>
+          {/* <div className="font-bold text-sm">$0.00</div> */}
         </div>
       </nav>
     </header>
