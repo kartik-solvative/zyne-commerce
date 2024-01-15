@@ -1,5 +1,4 @@
 import {
-  CommerceLayerGlyph,
   Globe,
   PaymentKlarna,
   PaymentMastercard,
@@ -19,6 +18,7 @@ import { useI18n } from "next-localization";
 import { useRouter } from "next/router";
 import { useEffect, useState } from "react";
 import { InputSelect } from "./InputSelect";
+import { Logo } from "./Logo";
 
 export const Footer: React.FC = () => {
   const i18n = useI18n();
@@ -66,7 +66,7 @@ export const Footer: React.FC = () => {
               </span>
               <Link
                 locale=""
-                className="uppercase text-violet-400 text-xs border-b border-gray-200 ml-3 mt-1"
+                className="uppercase text-red-800 text-xs border-b border-gray-200 ml-3 mt-1"
               >
                 {i18n.t("general.chooseCountry")}
               </Link>
@@ -119,15 +119,14 @@ export const Footer: React.FC = () => {
         </div>
 
         <div className="mt-12 flex justify-between items-center flex-col gap-6 md:flex-row">
-          <div className="text-gray-500 flex gap-4 items-start">
-            <CommerceLayerGlyph
-              aria-label="Commerce Layer logomark"
-              width={32}
-            />
+          <div className="text-gray-500 align-middle gap-4 items-start">
+            <Logo />
             <div className="text-xs leading-relaxed">
-              Copyright © 2022. Commerce Layer, Inc.
+              Triple Point Calibrations Unit 2 - 84 Grange Road, WELLAND, SA
+              5007, Australia
               <br />
-              2965 Woodside Road, Woodside, CA 94062
+              © 2021 TriplePoint Calibrations. All rights reserved | Privacy
+              Policy
               <br />
             </div>
           </div>

@@ -4,12 +4,11 @@
     "facetKey": "category",
     "name": "Category AMER - default",
     "taxons": [
-      "taxon_1",
-      "taxon_3",
-      "taxon_4",
       "taxon_5",
-      "taxon_7",
-      "taxon_8"
+      "taxon_3",
+      "taxon_11",
+      "taxon_8",
+      "taxon_4"
     ]
   },
   {

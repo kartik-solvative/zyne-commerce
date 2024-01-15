@@ -38,12 +38,22 @@ const nextConfig = {
     config.resolve.alias['aliasLocalesData'] = resolve(__dirname, isSupportedUrl(envs.NEXT_PUBLIC_LOCALES_DATA_FOLDER) ? 'empty' : envs.NEXT_PUBLIC_LOCALES_DATA_FOLDER)
 
     return config
-  }
+  },
+  async redirects() {
+    return [
+      {
+        source: '/',
+        destination: '/en-AU',
+        permanent: true,
+      },
+    ]
+  },
 }
 
 const withPWA = require('next-pwa')({
   // disable: process.env.NODE_ENV === 'development',
   dest: 'public'
 })
+
 
 module.exports = withPWA(nextConfig)

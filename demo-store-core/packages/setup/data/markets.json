@@ -19,5 +19,12 @@
     "inventory_model": "inventory_model_1",
     "price_list": "price_list_3",
     "name": "UK"
+  },
+  {
+    "reference": "market_4",
+    "merchant": "merchant_1",
+    "inventory_model": "inventory_model_1",
+    "price_list": "price_list_4",
+    "name": "Oceania"
   }
 ]

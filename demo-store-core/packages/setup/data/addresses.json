@@ -22,5 +22,17 @@
     "country_code": "US",
     "phone": "+1.201.22.33.444",
     "email": "touch@example.com"
+  },
+  {
+    "reference": "address_3",
+    "business": true,
+    "company": "The Brand SRL",
+    "line_1": "Via Roma 123",
+    "city": "Melbourne",
+    "zip_code": "3000",
+    "state_code": "ME",
+    "country_code": "IT",
+    "phone": "+61 055 1234567890",
+    "email": "touch@example.com"
   }
 ]
