@@ -8,22 +8,42 @@
           "slides": [
             {
               "image": {
-                "src": "https://res.cloudinary.com/commercelayer/image/upload/f_auto/v1658318039/demo-store/assets/all-over-print-backpack-white-front.jpg",
+                "src": "https://triplepoint.com.au/wp-content/uploads/2021/10/Fluke-Networks-bg.jpeg",
                 "alt": "Space for everything"
               },
-              "title": "Space for everything",
-              "description": "Our backpack collection has been designed to meet the needs of all kinds of people, from urban city-dwellers to outdoor adventurers.",
-              "linkLabel": "Shop here",
+              "title": "",
+              "description": "",
+              "linkLabel": "",
               "linkHref": "/search/bags"
             },
             {
               "image": {
-                "src": "https://res.cloudinary.com/commercelayer/image/upload/f_auto/v1658318039/demo-store/assets/all-over-print-backpack-white-front.jpg",
+                "src": "https://triplepoint.com.au/wp-content/uploads/2021/10/slider-2.png",
                 "alt": "Space for everything"
               },
-              "title": "Space for everything",
-              "description": "Our backpack collection has been designed to meet the needs of all kinds of people, from urban city-dwellers to outdoor adventurers.",
-              "linkLabel": "Shop here",
+              "title": "",
+              "description": "",
+              "linkLabel": "",
+              "linkHref": "/search/bags"
+            },
+            {
+              "image": {
+                "src": "https://triplepoint.com.au/wp-content/uploads/2021/10/KYORITSU-6205.jpeg",
+                "alt": "Space for everything"
+              },
+              "title": "",
+              "description": "",
+              "linkLabel": "",
+              "linkHref": "/search/bags"
+            },
+            {
+              "image": {
+                "src": "https://triplepoint.com.au/wp-content/uploads/2021/10/Fluke-393-Clamp-Meter.jpeg",
+                "alt": "Space for everything"
+              },
+              "title": "",
+              "description": "",
+              "linkLabel": "",
               "linkHref": "/search/bags"
             }
           ]
@@ -62,33 +82,83 @@
           "items": [
             {
               "image": {
-                "src": "https://res.cloudinary.com/commercelayer/image/upload/f_auto/v1655471032/demo-store/assets/white-glossy-mug-15oz-woman.jpg",
+                "src": "",
                 "alt": "Mug collection"
               },
-              "title": "Mug collection",
-              "description": "Our mug collection has been designed to meet the needs of all kinds of people.",
-              "linkLabel": "Discover now",
+              "title": "Online Customer Support",
+              "description": "Our online portal allows you 24/7 access to manage all of your test equipment assets, calibration reports, and documentation in one place.",
+              "linkLabel": "CONTACT US",
               "linkHref": "/search/accessories"
             },
             {
               "image": {
-                "src": "https://res.cloudinary.com/commercelayer/image/upload/f_auto/v1655471055/demo-store/assets/classic-dad-hat-black-front.jpg",
-                "alt": "Hats collection"
+                "src": "",
+                "alt": "Mug collection"
               },
-              "title": "Hats collection",
-              "description": "Our hat collection has been designed to meet the needs of all kinds of people.",
-              "linkLabel": "Discover now",
-              "linkHref": "/search/hats"
+              "title": "Online Calibration Form",
+              "description": "Simple, quick, and effective. Our online RMA form will ensure that you are able to track the movement of your instruments as they leave your site and are returned.",
+              "linkLabel": "VIEW CALIBRATION FORM",
+              "linkHref": "/search/accessories"
             },
             {
               "image": {
-                "src": "https://res.cloudinary.com/commercelayer/image/upload/f_auto/v1655471072/demo-store/assets/all-over-print-basic-pillow-18x18-front-lifestyle-1.jpg",
-                "alt": "Home living collection"
+                "src": "",
+                "alt": "Mug collection"
               },
-              "title": "Home living collection",
-              "description": "Our home living collection has been designed to meet the needs of all kinds of people.",
-              "linkLabel": "Discover now",
-              "linkHref": "/search/home-and-living"
+              "title": "QR Coding",
+              "description": "No more lost calibration certificates. Each instrument that is calibrated has a QR code attached which contains the corresponding calibration certificate.",
+              "linkLabel": "",
+              "linkHref": "/search/accessories"
+            },
+            {
+              "image": {
+                "src": "",
+                "alt": "Mug collection"
+              },
+              "title": "Low Measurement Uncertainty",
+              "description": "Withing the scope of the calibration the best possible instruments class is identified in each case, We can determine low measurement uncertainties as a function of defined criteria such as display deviation or repeat accuracy.",
+              "linkLabel": "",
+              "linkHref": "/search/accessories"
+            },
+            {
+              "image": {
+                "src": "",
+                "alt": "Mug collection"
+              },
+              "title": "Turn Around Time",
+              "description": "We understand that time is money. Our standard turnaround is 3-5 days, with expedited service options for when you’re really in a rush.",
+              "linkLabel": "",
+              "linkHref": "/search/accessories"
+            },
+            {
+              "image": {
+                "src": "",
+                "alt": "Mug collection"
+              },
+              "title": "Automated Calibration Software",
+              "description": "Our precision software ensures that your calibrations are completed efficiently, and will meet or exceed the manufacturers specifications.",
+              "linkLabel": "",
+              "linkHref": "/search/accessories"
+            },
+            {
+              "image": {
+                "src": "",
+                "alt": "Mug collection"
+              },
+              "title": "Experienced Factory Trained Technicians",
+              "description": "With over 100 years of combined experience, you can be confident that calibrations and repairs are completed to the most exacting standards.",
+              "linkLabel": "",
+              "linkHref": "/search/accessories"
+            },
+            {
+              "image": {
+                "src": "",
+                "alt": "Mug collection"
+              },
+              "title": "Complete Measurement range",
+              "description": "We calibrates the entire measurement range of you testing instruments and indicates this on the calibration certificate. With a calibration of multiple measuring points, the range of application for your instruments.",
+              "linkLabel": "",
+              "linkHref": "/search/accessories"
             }
           ]
         }

@@ -7,6 +7,7 @@ import { useSettingsContext } from "#contexts/SettingsContext";
 import { Link } from "#i18n/Link";
 import { LineItemsCount } from "@commercelayer/react-components";
 import { useEffect, useState } from "react";
+import { LoginForm } from "./Loginform";
 
 export type HeaderProps = Partial<NavigationProps>;
 
@@ -51,11 +52,12 @@ const CartQuantity: React.FC<{ quantity: number }> = ({
 export const SecondSubHeader: React.FC<HeaderProps> = () => {
   const auth = useAuthContext();
   const settings = useSettingsContext();
+  const [loginWindow, setLoginWindow] = useState("hidden");
 
   return (
     <header className="border-b-gray-200 border-b sticky top-0 bg-pageBackground z-50">
       <nav className="flex items-center justify-between  border-red-400 flex-wrap mb-4">
-        <div className="flex items-center flex-no-shrink text-black mr-6 ">
+        <div className="flex items-center flex-no-shrink text-black mr-6">
           <Link href="/">
             <Logo />
           </Link>
@@ -63,13 +65,27 @@ export const SecondSubHeader: React.FC<HeaderProps> = () => {
         <div className=" w-1/2">
           <Search className="order-1 grow lg:grow-0 w-full" />
         </div>
-        {/* <div className="font-bold text-sm">LOGIN / REGISTER</div> */}
+        <div className="relative">
+          <div
+            className="font-bold text-sm hover:text-red-800 hover:cursor-pointer"
+            onMouseEnter={() =>
+              setLoginWindow(
+                "block w-96 absolute top-10 z-60 right-0 bg-white p-10 border border-gray-300 shadow-sm"
+              )
+            }
+          >
+            LOGIN / REGISTER
+          </div>
+          <LoginForm loginWindow={loginWindow} setLoginWindow={setLoginWindow}/>
+        </div>
 
         <div className="flex items-center justify-end ">
           {settings.locale?.isShoppable && auth.accessToken && (
             <Link href="/cart" className="block lg:inline-block relative">
               <ShoppingBagOpen />
-              <LineItemsCount className="bg-red-800">{CartQuantity}</LineItemsCount>
+              <LineItemsCount className="bg-red-800">
+                {CartQuantity}
+              </LineItemsCount>
             </Link>
           )}
           {/* <div className="font-bold text-sm">$0.00</div> */}
